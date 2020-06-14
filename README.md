@@ -27,7 +27,7 @@ for contador in range(Muestras):
         
         
 
-        #Formula de Calculo de la edad de la piedra    formula  =( edad*1.25*pow(10,9))/10000000
+        #Formula de Calculo de la edad de la piedra    
         
         Result = edad*1.248*math.log(3)
 
